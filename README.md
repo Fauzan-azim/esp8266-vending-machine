@@ -1,6 +1,8 @@
 # esp8266-vending-machine
 A Vending Machine which can be used via website
 
+### Main File
+- vendmach.ino code for esp8266
 
 ### Flow
 + Send OTP code to customer email to verification 
