@@ -10,7 +10,9 @@ A Vending Machine which can be used via website
 + Generating QRCODE
 + Scan QRcode for Payment
 
-## Libraries & Framework
+## Libraries, Framework & Other
 - Bootstrap
-- PHPMailer
 - PHPQrCode
+- PHPMailer
+  > only runs for fellow localhost and it is a function not library
+
